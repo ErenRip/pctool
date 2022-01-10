@@ -14,7 +14,7 @@ body {
 .wrapper .btn{
    
     position: fixed;
-    top: 500px;
+    top: 300px;
     right: -100px;
   
 }
@@ -22,7 +22,7 @@ body {
 
 .wrapper .btn{
   margin: 15px;
-  border: 2px solid #ffd324;
+  border: 2px solid 	#008000;
   width: 200px;
   height: 45px;
   text-align: center;
@@ -32,7 +32,7 @@ body {
 }
 
 .wrapper .btn a{
-  color: #ffd324;
+  color: 	#008000;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -44,7 +44,7 @@ body {
 }
 
 .wrapper .btn a:hover{
-  color: #30333A;
+  color: #000000;
 }
 
 .wrapper .btn.btn_1:before{
@@ -54,7 +54,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #ffd324;
+  background: 	#008000;
   transform: skewY(10deg);
   transition: all 0.5s ease;
 }
@@ -66,7 +66,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #ffd324;
+  background: 	#008000;
   transform: skewY(10deg);
   transition: all 0.5s ease;
 }
@@ -85,7 +85,7 @@ body {
   left: 0;
   width: 500%;
   height: 500%;
-  background: #ffd324;
+  background: 	#008000;
   transform: skewY(-10deg);
   transition: all 0.5s ease;
 }
@@ -97,7 +97,7 @@ body {
   left: 0;
   width: 100%;
   height: 1000%;
-  background: #ffd324;
+  background: 	#008000;
   transform: skewY(-10deg);
   transition: all 0.5s ease;
 }
